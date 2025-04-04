@@ -1,0 +1,4 @@
+#define DEBOUNCE 5
+#define FORCE_NKRO
+#define TAPPING_TERM 175
+#define OLED_BRIGHTNESS 128

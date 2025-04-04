@@ -1,0 +1,2 @@
+#define FORCE_NKRO
+#define OLED_BRIGHTNESS 16

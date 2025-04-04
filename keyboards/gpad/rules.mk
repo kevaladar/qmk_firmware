@@ -1,0 +1,20 @@
+# Bắt buộc
+NKRO_ENABLE = yes
+
+# Tắt mọi thứ không cần
+LTO_ENABLE = yes              # Tối ưu build nhỏ và nhanh
+OLED_ENABLE = no
+ENCODER_ENABLE = no
+COMBO_ENABLE = no
+TAP_DANCE_ENABLE = no
+AUDIO_ENABLE = no
+RGBLIGHT_ENABLE = no
+BACKLIGHT_ENABLE = no
+LEADER_ENABLE = no
+UNICODE_ENABLE = no
+SPACE_CADET_ENABLE = no
+GRAVE_ESC_ENABLE = no
+MAGIC_ENABLE = no
+KEY_LOCK_ENABLE = no
+AUTO_SHIFT_ENABLE = no
+ONE_SHOT_ENABLE = no
